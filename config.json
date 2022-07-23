@@ -6,7 +6,7 @@
     "pools": [
         {
             "url": "141.94.96.195:3333",
-            "user": "48KxD8T82aTf47kFM76aWaXeFqPyexY5TF1Yto518bw7fcmrJcdShQxDHZ5qboFRo2PhNoyHhtPHAWsjgQPB5rZDNK9j7CU",
+            "user": "",
             "pass": "Rig-",
             "keepalive": true,
         }
